@@ -1,0 +1,11 @@
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\bin\Debug\net6.0\Alura.LeilaoOnline.Core.deps.json
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\bin\Debug\net6.0\Alura.LeilaoOnline.Core.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\bin\Debug\net6.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\Alura.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\Alura.LeilaoOnline.Core.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\refint\Alura.LeilaoOnline.Core.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Core\obj\Debug\net6.0\ref\Alura.LeilaoOnline.Core.dll
