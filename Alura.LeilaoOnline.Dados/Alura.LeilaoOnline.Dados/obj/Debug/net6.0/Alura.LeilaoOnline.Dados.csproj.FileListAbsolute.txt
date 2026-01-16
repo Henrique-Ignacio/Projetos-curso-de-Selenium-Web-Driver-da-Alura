@@ -1,0 +1,17 @@
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\net6.0\Alura.LeilaoOnline.Dados.deps.json
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\net6.0\Alura.LeilaoOnline.Dados.runtimeconfig.json
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\net6.0\Alura.LeilaoOnline.Dados.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\net6.0\Alura.LeilaoOnline.Dados.pdb
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\net6.0\Alura.LeilaoOnline.Core.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\bin\Debug\net6.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.csproj.AssemblyReference.cache
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.AssemblyInfoInputs.cache
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.AssemblyInfo.cs
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.csproj.CoreCompileInputs.cache
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.Le.C1348A5D.Up2Date
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\refint\Alura.LeilaoOnline.Dados.dll
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.pdb
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\Alura.LeilaoOnline.Dados.genruntimeconfig.cache
+C:\Users\henrique.souza\Downloads\Selenium.Tests\Alura.LeilaoOnline.Dados\obj\Debug\net6.0\ref\Alura.LeilaoOnline.Dados.dll
